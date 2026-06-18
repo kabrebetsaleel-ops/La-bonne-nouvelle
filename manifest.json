@@ -1,0 +1,27 @@
+{
+  "name": "Christ & Lumière — La Bonne Nouvelle",
+  "short_name": "Christ & Lumière",
+  "description": "Découvre le chemin vers la paix, le pardon et la vie éternelle à travers Jésus-Christ.",
+  "start_url": "/La-bonne-nouvelle/index.html",
+  "scope": "/La-bonne-nouvelle/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/ycbqx4gW/ic-ne-bonne-nouvelle.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/ycbqx4gW/ic-ne-bonne-nouvelle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle"],
+  "lang": "fr"
+}
